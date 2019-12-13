@@ -19,3 +19,9 @@ In this project, I will be focusing on windsurfing, just because that is the spo
 * Train the algorithm 
 * Test the algorithm 
 
+### Current Progress! 
+* Learned how to use 1) Pytesserat for OCR, 2) openCV for image processing
+* Main script (SailNumberDetection.py) currently can detect where the sail number is and crop the image out. (if the image doesn't have too much noise and the sail number is not too distored...)
+
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+
